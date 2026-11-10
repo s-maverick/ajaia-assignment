@@ -2,7 +2,7 @@
 
 ## Links
 
-- **Live product:** `<LIVE_URL>`. Hosted on Render's free tier, so the first request after idle can take up to ~1 minute.
+- **Live product:** https://ajaia-assignment-8kk8.onrender.com. Hosted on Render's free tier, so the first request after idle can take up to ~1 minute.
 - **Walkthrough video:** https://www.loom.com/share/be47c77719c848508a28d1d18639b16b (also in `VIDEO_URL.txt`)
 - **Source code:** https://github.com/s-maverick/ajaia-assignment
 

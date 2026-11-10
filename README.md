@@ -2,7 +2,7 @@
 
 A lightweight collaborative document editor inspired by Google Docs. You can create and rich-text edit documents, import `.txt` / `.md` / `.docx` files, share documents as **viewer** or **editor**, and come back later to find everything saved.
 
-**Live demo:** `<LIVE_URL>`. The free host sleeps when idle, so the first load can take up to ~1 minute.
+**Live demo:** https://ajaia-assignment-8kk8.onrender.com. It's hosted on Render's free tier, which sleeps when idle, so the first load can take up to ~1 minute.
 
 **Source:** https://github.com/s-maverick/ajaia-assignment · **Walkthrough video:** https://www.loom.com/share/be47c77719c848508a28d1d18639b16b
 
